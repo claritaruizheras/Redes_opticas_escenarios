@@ -16,4 +16,5 @@ Instalación:
 El kernel recibe por defecto el nombre "Redes Opticas" y debe ser seleccionado cuando se  indique en el script.
 
 Uso del simulador:
+
 Este simulador puede ejecutarse una vez satisfechos los requisitos previos en Jupiter Notebook, como se ha indicado en el anterior apartado el script que se debe abrir es Escenarios.ipynb. 
