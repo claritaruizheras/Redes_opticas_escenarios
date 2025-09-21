@@ -3,6 +3,7 @@ Guía de instalación y uso del simulador:
 Requisitos previos:
 
 -- Python 3.12 -> conviene emplear esta version para que no haya problemas con las dependencias.
+
 -- Jupyter Notebook 
 
 Instalación:
